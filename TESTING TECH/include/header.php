@@ -239,17 +239,17 @@ dd {
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="business-analytics.php"> Sales & Capacity
+                                href="sales_& _capacity_building.php"> Sales & Capacity
                                 Building</a>
                         </li>
                         <li>
-                            <h6 class="px-3 h5" href="advance-excel.php"><u>Oracle primavera </u>
+                            <h6 class="px-3 h5" ><u>Oracle primavera </u>
                             </h6>
                         </li>
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="#">
+                                href="oracle_primavera.php">
                                 Oracle primavera</a>
                         </li>
                         <li>
@@ -260,7 +260,7 @@ dd {
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="advance-excel.php"> Supply Chain Management</a>
+                                href="supply-chain-management.php"> Supply Chain Management</a>
                         </li>
 
                         <li>
@@ -272,7 +272,7 @@ dd {
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="advance-excel.php"> PECB Certificate
+                                href="PECB_certificate_lead_implementer.php"> PECB Certificate
                                 Lead
                                 Implementer</a>
                         </li>
@@ -296,14 +296,14 @@ dd {
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="#">
+                                href="microsoft_365_business.php">
                                 Microsoft 365 Bussiness</a>
                         </li>
                         <li>
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="#">
+                                href="microsoft_azure_security.php">
                                 Microsoft Azure Security</a>
                         </li>
                         <li>
@@ -330,21 +330,21 @@ dd {
                         <li class="dropdown-item ah"></li>
 
                         <li>
-                            <h6 class="px-3 h5" href="advance-excel.php"><u>AML/CFT COMPLIANCE
+                            <h6 class="px-3 h5" ><u>AML/CFT COMPLIANCE
                                 </u>
                             </h6>
                         </li>
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="#">
+                                href="CFT_compliance_certificate_course.php">
                                 AML/CFT Compliance Certificate Course</a>
                         </li>
                         <li>
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="#">
+                                href="ACAMS.php">
                                 ACAMS</a>
                         </li>
                         <li>
@@ -355,7 +355,7 @@ dd {
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="advance-excel.php"> Project Management</a>
+                                href="#"> Project Management</a>
                         </li>
 
                         <li>
@@ -366,7 +366,7 @@ dd {
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="advance-excel.php"> Hr Trainings</a>
+                                href="#"> Hr Trainings</a>
                         </li>
 
                         <li>
@@ -377,7 +377,7 @@ dd {
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="advance-excel.php"> LinkedIn Professional</a>
+                                href="#"> LinkedIn Professional</a>
                         </li>
 
                         <li>
@@ -403,7 +403,7 @@ dd {
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="effective-communication-&-interpersonal-skills.php"> Devops</a>
+                                href="#"> Devops</a>
                         </li>
                         <li>
                             <h6 class="px-3 h5"><u>Cloud Security</u></h6>
@@ -411,7 +411,7 @@ dd {
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="effective-communication-&-interpersonal-skills.php"> Cloud
+                                href="#"> Cloud
                                 Security</a>
                         </li>
                         <li>
@@ -420,7 +420,7 @@ dd {
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="effective-communication-&-interpersonal-skills.php"> Network
+                                href="#"> Network
                                 Security</a>
                         </li>
                         <li>
@@ -429,7 +429,7 @@ dd {
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="effective-communication-&-interpersonal-skills.php"> IP
+                                href="#"> IP
                                 Security</a>
                         </li>
                         <li>
@@ -438,7 +438,7 @@ dd {
                         <li class="dropdown-item ah">
                         <li class="dropdown-item ah">
                             <i class="arrow fa fa-circle custom-circle" style="font-size: 11px;"></i><a class="lia"
-                                href="effective-communication-&-interpersonal-skills.php"> Network
+                                href="#"> Network
                                 Security</a>
                         </li>
 
